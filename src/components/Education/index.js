@@ -1,4 +1,3 @@
-
 import React from 'react'
 import styled from 'styled-components'
 import Timeline from '@mui/lab/Timeline';
@@ -74,8 +73,6 @@ const TimelineSection = styled.div`
         align-items: end;
     }
 `;
-
-
 
 const index = () => {
     return (
