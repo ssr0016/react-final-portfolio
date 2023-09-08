@@ -297,6 +297,23 @@ export const projects = [
   },
   {
     id: 2,
+    title: "The Generics | Website",
+    date: "September 9, 2023",
+    description:
+      "Creating a straightforward web application that progresses from fundamental HTML components to more advanced ones, incorporating links and input features, and giving it a contemporary style, all while utilizing JavaScript.",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/web-dev-1.PNG",
+    tags: [
+      "Html",
+      "Css",
+      "Javascript",
+    ],
+    category: "web app",
+    github: "https://github.com/ssr0016/Web-Dev-1",
+    webapp: "https://the-generics-website.vercel.app/",
+  },
+  {
+    id: 3,
     title: "Image Processing and Computer Vision for Detecting Parking Lot Occupancy.",
     date: "January 29, 2003",
     description:
