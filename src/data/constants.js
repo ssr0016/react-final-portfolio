@@ -263,6 +263,23 @@ export const education = [
 ];
 
 export const projects = [
+    {
+    id: 3,
+    title: "Image Processing and Computer Vision for Detecting Parking Lot Occupancy.",
+    date: "January 29, 2003",
+    description:
+      "ParkDTec System is an Image Processing and Computer Vision for Detecting Parking Lot Occupancy Real time.",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/ParkDtec.jpg",
+    tags: [
+      "Python",
+      "OpenCv",
+      "Tkinter",
+    ],
+    category: "machine learning",
+    github: "https://github.com/ssr0016/ParkDtec",
+    webapp: "https://drive.google.com/file/d/1d22NTniJrRdIOBrUoTzAlhx-qVOd1aKN/view?usp=sharing",
+  },
   {
     id: 0,
     title: "TODO List",
@@ -278,6 +295,24 @@ export const projects = [
     category: "web app",
     github: "https://github.com/ssr0016/React-Todo-List",
     webapp: "https://react-todo-list-git-main-ssr0016.vercel.app/",
+  },
+  
+  {
+    id: 2,
+    title: "Movies App.",
+    date: "September 10, 2023",
+    description:
+      "React movie app that allows search movies and tv series using TMDB API.",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/movieapp.PNG",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Css"
+    ],
+    category: "web app",
+    github: "https://github.com/ssr0016/movieapp",
+    webapp: "https://movieapp-eight-puce.vercel.app/",
   },
   {
     id: 1,
@@ -296,7 +331,7 @@ export const projects = [
     webapp: "https://ssr0016.github.io/grocery-buddy/",
   },
   {
-    id: 2,
+    id: 4,
     title: "The Generics | Website",
     date: "September 9, 2023",
     description:
@@ -312,40 +347,7 @@ export const projects = [
     github: "https://github.com/ssr0016/Web-Dev-1",
     webapp: "https://the-generics-website.vercel.app/",
   },
-  {
-    id: 3,
-    title: "Image Processing and Computer Vision for Detecting Parking Lot Occupancy.",
-    date: "January 29, 2003",
-    description:
-      "ParkDTec System is an Image Processing and Computer Vision for Detecting Parking Lot Occupancy Real time.",
-    image:
-      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/ParkDtec.jpg",
-    tags: [
-      "Python",
-      "OpenCv",
-      "Tkinter",
-    ],
-    category: "machine learning",
-    github: "https://github.com/ssr0016/ParkDtec",
-    webapp: "https://drive.google.com/file/d/1d22NTniJrRdIOBrUoTzAlhx-qVOd1aKN/view?usp=sharing",
-  },
-  {
-    id: 4,
-    title: "Movies App.",
-    date: "September 10, 2023",
-    description:
-      " React movie app that allows search movies and tv series they want to watch from the TMDB API.",
-    image:
-      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/movieapp.PNG",
-    tags: [
-      "Python",
-      "OpenCv",
-      "Tkinter",
-    ],
-    category: "web app",
-    github: "https://github.com/ssr0016/movieapp",
-    webapp: "https://movieapp-eight-puce.vercel.app/",
-  },
+
   // {
   //   id: 2,
   //   title: "",
