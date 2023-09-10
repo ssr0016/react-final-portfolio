@@ -329,6 +329,23 @@ export const projects = [
     github: "https://github.com/ssr0016/ParkDtec",
     webapp: "https://drive.google.com/file/d/1d22NTniJrRdIOBrUoTzAlhx-qVOd1aKN/view?usp=sharing",
   },
+  {
+    id: 4,
+    title: "Movies App.",
+    date: "September 10, 2023",
+    description:
+      " React movie app that allows search movies and tv series they want to watch from the TMDB API.",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/movieapp.PNG",
+    tags: [
+      "Python",
+      "OpenCv",
+      "Tkinter",
+    ],
+    category: "web app",
+    github: "https://github.com/ssr0016/movieapp",
+    webapp: "https://movieapp-eight-puce.vercel.app/",
+  },
   // {
   //   id: 2,
   //   title: "",
