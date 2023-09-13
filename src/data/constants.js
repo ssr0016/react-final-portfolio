@@ -264,7 +264,7 @@ export const education = [
 
 export const projects = [
     {
-    id: 3,
+    id: 0,
     title: "Image Processing and Computer Vision for Detecting Parking Lot Occupancy.",
     date: "January 29, 2003",
     description:
@@ -281,7 +281,7 @@ export const projects = [
     webapp: "https://drive.google.com/file/d/1d22NTniJrRdIOBrUoTzAlhx-qVOd1aKN/view?usp=sharing",
   },
   {
-    id: 0,
+    id: 1,
     title: "TODO List",
     date: "August 20 - September 7, 2023",
     description:
@@ -315,7 +315,25 @@ export const projects = [
     webapp: "https://movieapp-eight-puce.vercel.app/",
   },
   {
-    id: 1,
+    id: 3,
+    title: "Shopping Cart",
+    date: "September 13, 2023",
+    description:
+      "A fully functional shopping cart using React, TypeScript, and Bootstrap",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/shoppingcart.PNG",
+    tags: [
+      "React Js",
+      "TypeScript",
+      "Bootstrap",
+      "Node Js",
+    ],
+    category: "web app",
+    github: "https://github.com/ssr0016/Shopping-Cart-TS-React",
+    webapp: "https://shopping-cart-ts-react-mk25pxcyf-ssr0016.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Grocery Buddy",
     date: "August 5 - September 7, 2023",
     description:
@@ -331,7 +349,7 @@ export const projects = [
     webapp: "https://ssr0016.github.io/grocery-buddy/",
   },
   {
-    id: 4,
+    id: 5,
     title: "The Generics | Website",
     date: "September 9, 2023",
     description:
