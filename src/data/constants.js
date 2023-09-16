@@ -360,6 +360,24 @@ export const projects = [
   },
   {
     id: 5,
+    title: "Admin Dashboard UI Design",
+    date: "September , 2023",
+    description:
+      "Admin Dashboard: A sleek and intuitive web-based interface designed to streamline administrative tasks and data management. This powerful tool provides real-time insights, user management, and data visualization, empowering businesses to make informed decisions and efficiently manage their operations.",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/admindash.PNG",
+    tags: [
+      "React Js",
+      "TypeScript",
+      "Node Js",
+      "Rechart",
+    ],
+    category: "web app",
+    github: "https://github.com/ssr0016/Admin-Dashboard-UIDesign",
+    webapp: "https://admin-dashboard-ui-design.vercel.app/",
+  },
+  {
+    id: 6,
     title: "The Generics | Website",
     date: "September 9, 2023",
     description:
@@ -375,6 +393,8 @@ export const projects = [
     github: "https://github.com/ssr0016/Web-Dev-1",
     webapp: "https://the-generics-website.vercel.app/",
   },
+
+  
 
   // {
   //   id: 2,
