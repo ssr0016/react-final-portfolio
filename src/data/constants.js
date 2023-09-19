@@ -10,7 +10,7 @@ export const Bio = {
     "I'm a driven and adaptable person who welcomes new challenges enthusiastically. I'm committed to producing top-notch outcomes, fueled by my love for learning. With a positive outlook and a mindset focused on growth, I'm prepared to make a significant impact and accomplish remarkable feats.",
   github: "https://github.com/ssr0016",
   resume:
-    "https://drive.google.com/file/d/1QXjV5I2K6tIiws8_Ly_O_gGz_f-gUZSz/view?usp=sharing",
+    "https://drive.google.com/file/d/1lRsYZfPt4Vle2cs6ebZtkxOnUVfxQMMQ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/",
   twitter: "",
   insta: "https://www.instagram.com/samsonrecluta/",
