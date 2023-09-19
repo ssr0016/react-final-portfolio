@@ -10,7 +10,7 @@ export const Bio = {
     "I'm a driven and adaptable person who welcomes new challenges enthusiastically. I'm committed to producing top-notch outcomes, fueled by my love for learning. With a positive outlook and a mindset focused on growth, I'm prepared to make a significant impact and accomplish remarkable feats.",
   github: "https://github.com/ssr0016",
   resume:
-    "https://drive.google.com/file/d/1wgADWHZbaLCnPqUC9nJ2WkVkDEX8V4Tu/view?usp=drive_link",
+    "https://drive.google.com/file/d/1vkbbnUbY4HXBU8xTtu32tyDnuPLsKZ8q/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/",
   twitter: "",
   insta: "https://www.instagram.com/samsonrecluta/",
@@ -382,6 +382,23 @@ export const projects = [
     webapp: "https://admin-dashboard-ui-design.vercel.app/",
   },
   {
+    id: 7,
+    title: "Restaurant Food Delivery App Design",
+    date: "September 19, 2023",
+    description:
+      "",
+    image:
+      "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/restaurant.PNG",
+    tags: [
+      "Next Js",
+      "TypeScript",
+      "NodeJs",
+    ],
+    category: "web app",
+    github: "https://github.com/ssr0016/Restaurant-Food-Delivery-App-Design",
+    webapp: "https://restaurant-food-delivery-app-design.vercel.app/",
+  },
+  {
     id: 6,
     title: "The Generics | Website",
     date: "September 9, 2023",
@@ -398,6 +415,7 @@ export const projects = [
     github: "https://github.com/ssr0016/Web-Dev-1",
     webapp: "https://the-generics-website.vercel.app/",
   },
+  
 
   
 
