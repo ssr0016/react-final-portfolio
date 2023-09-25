@@ -13,7 +13,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1lRsYZfPt4Vle2cs6ebZtkxOnUVfxQMMQ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/",
   twitter: "",
-  insta: "https://www.instagram.com/samsonrecluta/",
+  insta: "",
   facebook: "https://www.facebook.com/jhayell.recluta",
 };
 
