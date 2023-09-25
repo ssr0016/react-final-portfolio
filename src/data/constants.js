@@ -214,9 +214,8 @@ export const experiences = [
     date: "February 9 - March 24, 2023",
     desc: "Responsible for assisting in overseeing all aspects of an organization's information technology systems and operations.",
     skills: [
-      "Building PCs, PC troubleshooting, networks, and NewTek Tricaster",
+      "Building PCs, PC troubleshooting, and networks.",
       "GFX Designer and Computer Programmer",
-      "Operates Youtube and Facebook—Live Streaming",
     ],
     doc: "https://raw.githubusercontent.com/ssr0016/jl-portfolio-resources/main/images/Certificate_Of_Completion.jpg",
   },
